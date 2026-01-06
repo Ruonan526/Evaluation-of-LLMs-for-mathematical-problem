@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 
-DEEPSEEK_API_KEY = "sk-da0025c4e3f84de082271474bd734f96"
+DEEPSEEK_API_KEY = "           "
 API_URL = "https://api.deepseek.com/v1/chat/completions"
 MODEL_NAME = "deepseek-chat"
 DATA_PATH = "datsets/math500.jsonl"
@@ -381,3 +381,4 @@ def test_extractor():
 if __name__ == "__main__":
     test_extractor()
     run_evaluation()
+
