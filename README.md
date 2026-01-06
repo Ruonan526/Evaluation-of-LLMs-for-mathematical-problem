@@ -27,7 +27,7 @@ Evaluation-of-LLMs-for-mathematical-problem-solving/
 This repository evaluates models on three datasets:
 - **GSM8K**: Grade-school math word problems, focusing on step-by-step arithmetic and logic.
 - **Math500**: A collection of problems from Algebra, Geometry, Number Theory, etc., grouped by difficulty levels.
-- **UNSW Problems**: University-level questions used in actual exams across topics like Optimization, Statistics, and Computational Finance.
+- **University-Level Problems**: University-level questions used in actual exams across topics like Optimization, Statistics, and Computational Finance.
 
 Each dataset includes:
 - Problem statements (with LaTeX or readable formatting)
